@@ -1,4 +1,4 @@
-## Getting Started
+# Getting Started
 
 We're committed to making sure you enjoy your time playing, so we've created this documentation page to help you. It is recomended that you read these pages in full before starting work on any challenges. To begin, please create your Alyxia CTF account.
 
