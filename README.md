@@ -6,6 +6,6 @@ We love what we do here at Alyxia, but some people still dont know about our lif
 
 Every cypher, programming language, and puzzle in the CTF is documented complete with examples on this site, so we encourage you to read it in full before starting work on puzzles, and to keep it open when you're solving puzzles, it may be invaluable.
 
-To sign up for alyxia check out the [Getting Started](insert link here) guide in the sidebar. 
+To sign up for alyxia check out the [Getting Started](getting-started.md) guide in the sidebar. 
 
 If you have any questions about Alyxia CTF or Alyxia as a whole, Our ai operations specialist is equipped to help you. No question is too advanced for him!
