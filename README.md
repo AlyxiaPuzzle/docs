@@ -1,4 +1,4 @@
-## Welcome to the Alyxia CTF!
+# Welcome to the Alyxia CTF!
 
 Alyxia CTF is a global 7 week contest built around one premise, being the best. During the contest you will be directly competing with other people to rank up a constantly changing leaderboard. Sometimes being the best means finding an unconventional way to win, which is why cheating is *allowed.* All of our pages have been rigorously stress tested against hacking, reverse engineering, and other means of cheating, so if you successfully cheat you will not be penalized, rather you will be rewarded. 
 
