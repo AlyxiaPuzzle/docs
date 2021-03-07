@@ -2,3 +2,5 @@
 * [Home](/)
 * [Cryptography Home](/cryptography/index.md)
 * [Atbash](/cryptography/atbash.md)
+* [Bacon's cipher](baconian.md)
+* [Book cipher](book.md)
