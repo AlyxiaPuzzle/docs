@@ -4,3 +4,5 @@
 * [Atbash](/cryptography/atbash.md)
 * [Bacon's cipher](/cryptography/baconian.md)
 * [Book cipher](/cryptography/book.md)
+* [Ceaser](/cryptography/ceaser.md)
+* [Standard Galactic Alphabet](/cryptography/galactic-alphabet.md)
