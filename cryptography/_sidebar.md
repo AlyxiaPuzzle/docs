@@ -6,3 +6,5 @@
 * [Book cipher](/cryptography/book.md)
 * [Ceaser](/cryptography/ceaser.md)
 * [Standard Galactic Alphabet](/cryptography/galactic-alphabet.md)
+* [Null](null.md)
+* [Pigpen](pigpen.md)
