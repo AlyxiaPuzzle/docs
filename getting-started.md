@@ -16,7 +16,7 @@ Once you've been assigned an account you will recieve an invite to the email you
 
 Now that you have an account its time to sign in! 
 
-Go to the [contest site](https://alyxiapuzzle.github.io/dashboard) and choose `Log In`. Then Type in the email and password you provided when creating an account. 
+Go to the [contest site](/dashboard) and choose `Log In`. Then Type in the email and password you provided when creating an account. 
 
 !>Please leave up to 24 hours after creating your account to login as we anticipate a high volume of account creaation requests
 
