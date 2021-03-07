@@ -8,4 +8,4 @@ The cryptography documentation also shows how many common CTF challenges work. I
 
 To get started we reccomend checking out some of the articles below.
 
-* [Atbash](atbash.md)
+* [Atbash](/cryptography/atbash.md)
