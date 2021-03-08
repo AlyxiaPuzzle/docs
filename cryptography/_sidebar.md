@@ -5,7 +5,6 @@
 * [Bacon's cipher](/cryptography/baconian.md)
 * [Book cipher](/cryptography/book.md)
 * [Ceaser](/cryptography/ceaser.md)
-* [Standard Galactic Alphabet](/cryptography/galactic-alphabet.md)
 * [Null](/cryptography/null.md)
 * [Pigpen](/cryptography/pigpen.md)
 * [Rail Fence](/cryptography/rail-fence.md)
