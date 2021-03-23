@@ -4,4 +4,3 @@
 * [Home](/)
 * [Getting Started](getting-started.md)
 * [Life At Alyxia](life-at-alyxia.md)
-* [Cryptography](/cryptography/index.md)
