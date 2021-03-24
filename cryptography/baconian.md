@@ -5,5 +5,5 @@ To encode a message, each letter of the plaintext is replaced by a group of five
 
 |letter|  a   |  b   |  c   |  d   |  e   |
 |------|------|------|------|------|------|
-|code  |aaaaa |aaaab |aaaba |aaabb |aaabb |
+|code  |aaaaa |aaaab |aaaba |aaabb |aabaa |
 |binary|00000 |00001 |00010 |00011 |00100 |
