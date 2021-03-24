@@ -17,7 +17,7 @@ The main strength of a book cipher is the key. The sender and receiver of encode
 
 Another approach is to use a dictionary as the codebook. This guarantees that nearly all words will be found, and also makes it much easier to find a word when encoding. This approach was used by George Scovell for the Duke of Wellington's army in some campaigns of the Peninsular War. In Scovell's method, a codeword would consist of a number (indicating the page of the dictionary), a letter (indicating the column on the page), and finally a number indicating which entry of the column was meant. However, this approach also has a disadvantage: because entries are arranged in alphabetical order, so are the code numbers. This can give strong hints to the cryptanalyst unless the message is superenciphered. The wide distribution and availability of dictionaries also present a problem; it is likely that anyone trying to break such a code is also in possession of the dictionary which can be used to read the message.
 
-> ## Bible cipher
+## Bible cipher
 
 The Bible is a widely available book that is almost always printed with chapter and verse markings making it easy to find a specific string of text within it, making it particularly useful for this purpose; the widespread availability of concordances can ease the encoding process as well.
 
