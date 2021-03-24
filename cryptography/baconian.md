@@ -18,3 +18,18 @@ Any method of writing the message that allows two distinct representations for e
 Because any message of the right length can be used to carry the encoding, the secret message is effectively hidden in plain sight. The false message can be on any topic and thus can distract a person seeking to find the real message.
 
 ## Example
+The word 'steganography', encoded with quotation marks, where standard text represents "typeface 1" and text in boldface represents "typeface 2":
+
+**T**o en**co**de **a** mes**s**age e**ac**h letter **of** the **pl**a**i**nt**ex**t **i**s replaced b**y** **a g**rou**p of f**i**ve** o**f t**he l**et**te**rs 'A' or 'B'.**
+The pattern of standard and boldface letters is:
+
+ba aabbaa b aaabaaa abba aaaaaa bb aaa bbabaabba ba aaaaaaaa ab b baaab bb babb ab baa abbaabb 'b' bb 'b'.
+This decodes in groups of five as
+
+baaab(S) baaba(T) aabaa(E) aabba(G) aaaaa(A) abbaa(N) abbab(O) aabba(G) baaaa(R) aaaaa(A) abbba(P) aabbb(H) babba(Y) bbaaa bbaab bbbbb
+where the last three groups, being unintelligible, are assumed not to form part of the message.
+
+### Now you try!
+What does the text below mean? We've already done the first step for you!
+
+ABAAA BAABBAABAA AAABBABAAABAAABAAABAABBABBAABBAABAABAAAAAABAAAAABB BAAABABBABABABBAABAABAABAAABBBABAAAABBAAAABBA ABAAA AAABAAAAAAABBAABAABA ABBBABAABBBAABA BAABAAABBBABAAABAAAB ABAAAABBAA BAABAAABBBAABAA ABBAAABBABBAAAAABABBAAAAAABABA AAABBABBABAAABABAAAB ABBABBAAAA BAABAAABBBAABAABABBA ABABAABABA BAAABAABAAAABAA AABBBABBABABBBAAABAAAABABBAABBABABAABABABABBA BAABAAABBBAABAABABBA AAABBABBABABBAA BAABA AAAABABBABBAABAAABBBAABAABAAAA BAABAABBAB AAABBAABAAAAABAABBABAAABBAABAA BAABAAABBBABAAABAAAB BAABAAABBBAABAABABBA BAAAAAABAA BAABABAAAABABBAABAAAABBAAAABBA BAABAABBAB BAAAAAABAAABBBAABABAAAAAAAAABAAABAA ABABBAABAA BABAAABAAABAABAAABBB AAAAAABBAA AAAAAABAAA
