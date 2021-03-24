@@ -12,7 +12,6 @@ To get started we reccomend checking out some of the articles below.
 * [Bacon's cipher](/cryptography/baconian.md)
 * [Book cipher](/cryptography/book.md)
 * [Ceaser](/cryptography/ceaser.md)
-* [Null](/cryptography/null.md)
 * [Pigpen](/cryptography/pigpen.md)
 * [Rail Fence](/cryptography/rail-fence.md)
 * [vigenere](/cryptography/vigenere.md)
