@@ -1,6 +1,7 @@
 # Bacon's Cipher
 Bacon's cipher or the Baconian cipher is a method of steganographic message encoding devised by Francis Bacon in 1605. A message is concealed in the presentation of text, rather than its content.
 
+## Encoding
 To encode a message, each letter of the plaintext is replaced by a group of five of the letters 'A' or 'B'. This replacement is a 5-bit binary encoding and is done according to the alphabet of the Baconian cipher (from the Latin Alphabet), shown below:
 
 |letter|  a   |  b   |  c   |  d   |  e   |  f   |  g   |  h   | i, j |  k   |  l   |  m   |  n   |  o   |  p   |  q   |  r   |  s   |  t   | u, v |  w   |  x   |  y   |  z   |
@@ -16,4 +17,4 @@ Any method of writing the message that allows two distinct representations for e
 
 Because any message of the right length can be used to carry the encoding, the secret message is effectively hidden in plain sight. The false message can be on any topic and thus can distract a person seeking to find the real message.
 
-# Example
+## Example
